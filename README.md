@@ -48,7 +48,7 @@
 <a href="https://ilzhan-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-black?&style=for-the-badge&logo=website&logoColor=white" />
   </a>
-  <a href="https://https://www.linkedin.com/in/ильжан-мирзаянов-876304214/" target="_blank">
+  <a href="https://www.linkedin.com/in/ильжан-мирзаянов-876304214/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ilzhanmirzayanov@gmail.com" target="_blank">
