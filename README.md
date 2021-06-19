@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <H1>
-<img src="https://images.unsplash.com/photo-1481887328591-3e277f9473dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1060&q=80">
+<img src="https://images.unsplash.com/photo-1608403890614-ec62cb35b46e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80">
 </H1>
 
 <!-- Technologies I know -->
